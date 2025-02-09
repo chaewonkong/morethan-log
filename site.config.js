@@ -19,7 +19,7 @@ const CONFIG = {
   // blog setting (required)
   blog: {
     title: "Origo Lucis - Blog",
-    description: "테크, 소프트웨어 개발, 바이올린 이것저것 적습니다",
+    description: "테크, 소프트웨어 개발, 바이올린 이것저것 적습니다. Tech, software development, violin, and a bit of everything.",
     scheme: "system", // 'light' | 'dark' | 'system'
   },
 
