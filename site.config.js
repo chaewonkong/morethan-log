@@ -18,7 +18,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "chaewonkong's blog",
+    title: "Origo Lucis - Blog",
     description: "테크, 소프트웨어 개발, 바이올린 이것저것 적습니다",
     scheme: "system", // 'light' | 'dark' | 'system'
   },
