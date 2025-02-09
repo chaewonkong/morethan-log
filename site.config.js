@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/chaewonkong/morethan-log",
+      name: `Rollingpaper`,
+      href: "https://rollingpaper-site",
     },
   ],
   // blog setting (required)
