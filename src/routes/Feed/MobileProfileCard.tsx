@@ -71,6 +71,8 @@ const StyledWrapper = styled.div`
         > .btm {
           font-size: 0.875rem;
           line-height: 1.25rem;
+          word-break: keep-all;
+          line-break: strict;
         }
       }
     }
